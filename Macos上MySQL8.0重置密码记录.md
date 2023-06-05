@@ -37,3 +37,9 @@
 ## 至此，就可以正常登录 mysql
 
 `mysql -u root -p `
+
+
+
+`/Library/LaunchDaemons/com.oracle.oss.mysql.mysqld.plist`
+
+`sudo /usr/local/mysql/support-files/mysql.server restart`
